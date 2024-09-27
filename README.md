@@ -7,4 +7,4 @@ Execute o build de preferencia pelo AndroidStudio
 
 # App
 Caso não consiga executar a aplicação pelo Android Studio
-Voce pode baixar e extrair o arquivo `App-Limbo.apk` e instalar o app em seu celular
+Voce pode baixar  o App `App-Limbo.apk` e instalar o app em seu celular
